@@ -2,7 +2,8 @@
     Terminal.JS created by Yasir Eymen Kayabaşı.
 */
 import "./classicTerminal.css";
-import "./terminal1.ts";
+import "./terminal2.js";
+import "./terminal1.js";
 
 terminal.screen.clear();
 
